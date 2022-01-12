@@ -13,9 +13,9 @@ This has useful testing function to test data preprocessing codes and network bu
 
 ### Network building script
 
-This has all the codes needed to train an RNN network using Pytorch library. The hyperparameters can be adjusted based on the training performance.
+This has all the codes needed to train an RNN network using PyTorch library. The hyperparameters can be adjusted based on the training performance.
 
 ### Testing script
 
-This is Pytorch testing code block which generate text after giving the prime word. You can try different options based on the type of script you initially used for training. 
+This is a PyTorch testing code block which generates text after giving the prime word. You can try different options based on the type of script you initially used for training. 
 
