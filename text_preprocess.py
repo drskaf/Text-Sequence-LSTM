@@ -47,7 +47,7 @@ def token_lookup():
     Generate a dict to turn punctuation into a token.
     :return: Tokenized dictionary where the key is the punctuation and the value is the token
     """
-    # TODO: Implement Function
+    #Implement Function
     punct_dic = {'.':"<Period>", ',':"<Comma>",'"':"<Quotation_Mark>",';':"<Semicolon>",'!':"<Exclamation_mark>",'?':"<Question_mark>",'(':"<Left_Parentheses>",')':"<Right_Parenthesis>",'-':"<Dash>",'\n':"<Return>"}    
     return punct_dic
 
